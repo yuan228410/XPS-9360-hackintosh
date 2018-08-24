@@ -45,7 +45,7 @@ IOConsoleUsers: gIOScreenLockState 3, hs 0, bs 0, nov 0, sm 0x0
     <false/>
   </dict>
 ```
-以隐藏多余启动项，需要显示按F3即可
+以隐藏多余启动项，需要显示按F3即可<br>
 4、在KernelToPatch中添加相关代码去掉lilu输出信息以查看panic原因。
 <br>
 
