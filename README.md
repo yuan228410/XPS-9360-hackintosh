@@ -31,9 +31,9 @@ IOConsoleUsers: gIOScreenLockState 3, hs 0, bs 0, nov 0, sm 0x0
 <br>
 
 ## 相对于the-darkvoid的文件的修改：
-1、添加IE Capitan主题
-2、删除ACPI/patched/SSDT-NVMe.aml
-3、在config.plist添加
+1、添加IE Capitan主题<br>
+2、删除ACPI/patched/SSDT-NVMe.aml<br>
+3、在config.plist添加<br>
 ```
 <key>Scan</key>
   <dict>
