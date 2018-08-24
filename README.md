@@ -13,7 +13,7 @@ MACOS 10.13.6<br>
 
 
 ## 安装步骤
-1、安装之前使用DVMT.efi调整BIOS参数,见[the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)<br>
+1、安装之前使用DVMT.efi调整DVMT参数,见[the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)<br>
 2、high sierra已经支持多种NVMe固态，如果安装过程中识别不到PM961或其他固态，一般有两种原因：<br>
 一是未开启archi(进BIOS修改即可)；<br>
 二是固态牌子是海力士建兴浦科特，解决办法自行搜索。<br>
