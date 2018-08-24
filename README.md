@@ -52,4 +52,4 @@ IOConsoleUsers: gIOScreenLockState 3, hs 0, bs 0, nov 0, sm 0x0
 ## 致谢
 **[the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)**<br>
 **[rehabman](https://github.com/RehabMan/patch-nvme)**<br>
-**ymmshi](https://github.com/ymmshi/XPS-9360)**<br>
+**[ymmshi](https://github.com/ymmshi/XPS-9360)**<br>
